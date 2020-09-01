@@ -10,4 +10,5 @@ class Dog
   
   def bark(bark = "woof")
     @bark = bark
+  end
 end
